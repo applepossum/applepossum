@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @applepossum
 - 👀 I’m interested in audio tools
-- 🌱 I’m currently learning Xcode and Swift
+- 🌱 I’m currently learning Xcode, Swift, LUA, and MOOSE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
